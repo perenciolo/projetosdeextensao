@@ -1,0 +1,643 @@
+{
+  "d": {
+    "results": [{
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(1)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(1)",
+          "etag": "\"3\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "16bf9e2c-ecd7-49dd-ad20-3c251118a206",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos de Extens\u00e3o com fomento da PROEX",
+          "Ordem": 100
+        },
+        "Id": 1,
+        "Title": "Sonoro Despertar: interven\u00e7\u00f5es socioeducativas",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Val\u00e9ria Freire",
+        "Descricao": "<div class=\"ExternalClass8713C43F292045E481A5D0AC99A95193\"><p>\u200bO projeto vinculado ao curso de Psicologia consiste no fortalecimento e amplia\u00e7\u00e3o das a\u00e7\u00f5es desenvolvidas por meio da m\u00fasica junto a crian\u00e7as, adolescentes e suas fam\u00edlias na Par\u00f3quia S\u00e3o Marcos por Padres Escol\u00e1pios. O projeto de extens\u00e3o realiza interven\u00e7\u00f5es psicossociais e socioeducativas que t\u00eam por finalidade a preven\u00e7\u00e3o frente a situa\u00e7\u00f5es de vulnerabilidade.</p></div>",
+        "Ordem": 900,
+        "ID": 1
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(2)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(2)",
+          "etag": "\"3\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "3e481a6b-4245-41a4-bb00-4b2b6b88a093",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos de Extens\u00e3o com fomento da PROEX",
+          "Ordem": 100
+        },
+        "Id": 2,
+        "Title": "Media\u00e7\u00e3o Comunit\u00e1ria: Educa\u00e7\u00e3o, Media\u00e7\u00e3o de Conflitos e Justi\u00e7a Restaurativa",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof. Rubens Ferreira do Nascimento",
+        "Descricao": "<div class=\"ExternalClass86B6F074C2084BD097CAE201A8B51530\"><p>O projeto vinculado ao curso de Psicologia busca consolidar a implementa\u00e7\u00e3o de um instituto de media\u00e7\u00e3o familiar e comunit\u00e1ria de conflitos no bairro S\u00e3o Gabriel, por meio de pr\u00e1ticas did\u00e1ticas interdisciplinares em media\u00e7\u00e3o de conflitos, educa\u00e7\u00e3o comunit\u00e1ria em direitos humanos e o engajamento em trabalhos comunit\u00e1rios.\u200b</p></div>",
+        "Ordem": 890,
+        "ID": 2
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(3)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(3)",
+          "etag": "\"3\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "5cd5dbe2-d0a8-4745-a63b-9acf0f07ecf0",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos de Extens\u00e3o com fomento da PROEX",
+          "Ordem": 100
+        },
+        "Id": 3,
+        "Title": "Programa\u00e7\u00e3o de rob\u00f4s did\u00e1ticos como ferramenta de motiva\u00e7\u00e3o educacional",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof. Alexandre Teixeira",
+        "Descricao": "<div class=\"ExternalClass50A443210A2A4F9589FDEA21CFB1443C\"><p>O projeto vinculado ao curso de Engenharia de Computa\u00e7\u00e3o visa estimular adolescentes a descobrirem o seu potencial relacionado \u00e0 l\u00f3gica de programa\u00e7\u00e3o e ao estudo da matem\u00e1tica e f\u00edsica por meio de oficinas l\u00fadicas de programa\u00e7\u00e3o de rob\u00f4s educacionais.\u200b</p></div>",
+        "Ordem": 880,
+        "ID": 3
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(5)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(5)",
+          "etag": "\"3\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "712838ce-474c-4984-a59e-34452a131d13",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos de Extens\u00e3o com fomento da PROEX",
+          "Ordem": 100
+        },
+        "Id": 5,
+        "Title": "Articulando Redes Fortalecendo Comunidades",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa M\u00e1rcia Mansur",
+        "Descricao": "<div class=\"ExternalClass62F95D4915DD465C82AE82436E1286CA\"><p>\u200bO projeto vinculado ao curso de Psicologia em parceria com a Comunica\u00e7\u00e3o Social consiste no desenvolvimento de a\u00e7\u00f5es que contribuam para o fortalecimento de redes comunit\u00e1rias no bairro S\u00e3o Gabriel, Vila Cemig, Lajedo e Ocupa\u00e7\u00e3o Izidora, estimulando o conhecimento, o di\u00e1logo e a realiza\u00e7\u00e3o de a\u00e7\u00f5es conjuntas a partir da troca de experi\u00eancias, sistematiza\u00e7\u00e3o de metodologias, produ\u00e7\u00f5es audiovisuais e forma\u00e7\u00e3o de atores sociais.</p></div>",
+        "Ordem": 870,
+        "ID": 5
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(6)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(6)",
+          "etag": "\"3\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "64bdd760-e0d8-4166-bd38-0577ff09d9fa",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos de Extens\u00e3o com fomento da PROEX",
+          "Ordem": 100
+        },
+        "Id": 6,
+        "Title": "Vincular: reconstruindo rela\u00e7\u00f5es familiares",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Stella Simionato Tozo",
+        "Descricao": "<div class=\"ExternalClass346B811F1DBA4DB583AF368549091230\"><p>\u200bO projeto vinculado ao curso de Psicologia pretende formar grupos psicoterap\u00eauticos com fam\u00edlias de camadas populares que est\u00e3o vivenciando dificuldades em seus v\u00ednculos familiares, reconstruindo estas rela\u00e7\u00f5es e trabalhando principalmente com pais/m\u00e3es e filhos. O objetivo \u00e9 proporcionar a essas fam\u00edlias um acolhimento e um espa\u00e7o com caracter\u00edsticas terap\u00eauticas, em um modelo de cl\u00ednica ampliada, com atendimentos de fam\u00edlias em grupo, para que elas possam (re)descobrir seus recursos enquanto grupo familiar. Atualmente, a atua\u00e7\u00e3o acontece na Associa\u00e7\u00e3o Projeto Provid\u00eancia e no Projeto Sonoro Despertar.</p></div>",
+        "Ordem": 860,
+        "ID": 6
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(7)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(7)",
+          "etag": "\"3\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "39e1ef42-2dc5-4926-bd07-0b0870258ef6",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos de Extens\u00e3o com fomento da PROEX",
+          "Ordem": 100
+        },
+        "Id": 7,
+        "Title": "Canteiro Escola: Forma\u00e7\u00e3o de Compet\u00eancias na Constru\u00e7\u00e3o Civil",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Elke Berenice K\u00f6lln e Prof. Paulo Henrique Maciel Barbosa",
+        "Descricao": "<div class=\"ExternalClass15F7F856E115496884E69F4DAAFD358E\"><p>\u200bO projeto vinculado ao curso de Engenharia Civil oferece oficinas na \u00e1rea da constru\u00e7\u00e3o civil para as comunidades de moradores da regi\u00e3o de Justin\u00f3polis em Ribeir\u00e3o das Neves visando abrir mais frentes profissionalizantes para os jovens e comunidade. As oficinas abrangem&#58; Leitura de Projeto Arquitet\u00f4nico; Loca\u00e7\u00e3o de obras; Seguran\u00e7a do Trabalho; Alvenaria; Materiais de Constru\u00e7\u00e3o; Revestimentos; Novas Tecnologias aplicadas a T\u00e9cnicas Construtivas; Leitura e No\u00e7\u00f5es B\u00e1sicas de Execu\u00e7\u00e3o de Projeto de Instala\u00e7\u00f5es El\u00e9tricas. A atua\u00e7\u00e3o acontece no Projeto Vila F\u00e1tima e engloba diagn\u00f3sticos de moradias do entorno visando futuras pr\u00e1ticas de canteiros de obras nas pr\u00f3prias moradias.</p></div>",
+        "Ordem": 850,
+        "ID": 7
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(8)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(8)",
+          "etag": "\"3\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "060f1ae7-946f-452b-a274-65709adc8975",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos de Extens\u00e3o com fomento da PROEX",
+          "Ordem": 100
+        },
+        "Id": 8,
+        "Title": "Escrit\u00f3rio Ideias no S\u00e3o Gabriel",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Soraya Cardoso Pongelupe Lopes",
+        "Descricao": "<div class=\"ExternalClassBAEE95FA70A449B5A355664B23BCBAB0\"><p>\u200bO projeto vinculado ao curso de Administra\u00e7\u00e3o \u00e9 um bra\u00e7o do Programa de Extens\u00e3o Ideias da Pr\u00f3-reitoria de Extens\u00e3o, uma incubadora de fomento do desenvolvimento econ\u00f4mico, ambiental e social por meio da aplica\u00e7\u00e3o do conhecimento cient\u00edfico, com inova\u00e7\u00f5es e tecnologias sociais. No S\u00e3o Gabriel, o projeto atua em tr\u00eas linhas estrat\u00e9gicas&#58; iniciativa privada, iniciativa p\u00fablica e desenvolvimento do empreendedorismo e inova\u00e7\u00e3o, com o objetivo de gerar pr\u00e1ticas sustent\u00e1veis que possam transformar realidades locais.</p></div>",
+        "Ordem": 840,
+        "ID": 8
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(9)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(9)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "6a92d266-b3fb-4773-86a3-75392d695840",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 9,
+        "Title": "PUCLAB VAREJO",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Soraya Cardoso Pongelupe Lopes",
+        "Descricao": "<div class=\"ExternalClass74D77CE24E204C469FD96D75D1EB0344\"><p>\u200bO projeto vinculado ao curso de Administra\u00e7\u00e3o tem o objetivo de contribuir para o desenvolvimento econ\u00f4mico da regi\u00e3o nordeste de Belo Horizonte por meio da experimenta\u00e7\u00e3o de tecnologias de gest\u00e3o aplicadas ao ambiente do com\u00e9rcio varejista. O projeto tem a parceria do Minas Shopping, um dos maiores empregadores da regi\u00e3o.</p></div>",
+        "Ordem": 830,
+        "ID": 9
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(10)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(10)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "524db98f-a3a0-4ceb-b0e3-955bc6dc2393",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 10,
+        "Title": "Sustentabilidade na Inform\u00e1tica: Reciclagem e manuten\u00e7\u00e3o de computadores para as comunidades do entorno da PUC Minas S\u00e3o Gabriel",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Soraia L\u00facia Silva",
+        "Descricao": "<div class=\"ExternalClass36EBD1F368084AE5867DA9B666A1EE43\"><p>O projeto vinculado ao curso de Sistemas de Informa\u00e7\u00e3o tem como objetivo a promo\u00e7\u00e3o da cidadania por meio da oferta de cursos de capacita\u00e7\u00e3o gratuitos para a comunidade. Como via de m\u00e3o dupla, a atua\u00e7\u00e3o de professores e estudantes universit\u00e1rios contribui no desenvolvimento da dimens\u00e3o cidad\u00e3 de seus projetos profissionais com a inform\u00e1tica.\u200b</p></div>",
+        "Ordem": 820,
+        "ID": 10
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(11)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(11)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "50b79f98-554f-4510-adeb-ff9852ee9ba7",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 11,
+        "Title": "PUC Mais Idade",
+        "Coordenacao": "Coordenadora Prof.\u00aa Simone Alves Nogueira",
+        "Descricao": "<div class=\"ExternalClass60E5D7E218BE4DDCBE87186A719794FF\"><p>O projeto vinculado ao curso de Engenharia de Computa\u00e7\u00e3o tem como objetivo trabalhar na promo\u00e7\u00e3o de uma velhice ativa. Por meio da realiza\u00e7\u00e3o de atividades de interesse dos idosos e da oferta de capacita\u00e7\u00e3o em habilidades b\u00e1sicas de inform\u00e1tica, o projeto busca estimular a autonomia, diminuir o isolamento social, fortalecer os relacionamentos interpessoais no \u00e2mbito familiar e social e estimular a comunica\u00e7\u00e3o on-line ampliando sua rede de relacionamentos.\u200b</p></div>",
+        "Ordem": 810,
+        "ID": 11
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(12)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(12)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "3a7bf5e0-767a-4875-a2f8-efcf786d4431",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 12,
+        "Title": "Student to Business: capacita\u00e7\u00e3o de jovens e adultos em \u00e1reas da tecnologias da informa\u00e7\u00e3o",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Michelle Nery Nascimento",
+        "Descricao": "<div class=\"ExternalClassB1F7866E9F6C4978A8DBD0AC9B69F4C3\"><p>\u200bO projeto vinculado ao Instituto de Ci\u00eancias Exatas e Inform\u00e1tica visa \u00e0 capacita\u00e7\u00e3o gratuita em tecnologias de informa\u00e7\u00e3o e computa\u00e7\u00e3o de estudantes do ensino m\u00e9dio e da gradua\u00e7\u00e3o capacitando-os em tecnologias espec\u00edficas para uso no mercado de trabalho e proporcionando sua integra\u00e7\u00e3o ao mercado por meio de empresas parceiras. O programa tamb\u00e9m visa fomentar a qualifica\u00e7\u00e3o do ecossistema de empresas locais por meio de palestras e minicursos.</p></div>",
+        "Ordem": 700,
+        "ID": 12
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(13)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(13)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "4b8391c8-4bf7-469d-997f-1f88a36e0b95",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 13,
+        "Title": "Resid\u00eancia T\u00e9cnica em Desenvolvimento de Software",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof. Tadeu dos Reis Faria",
+        "Descricao": "<div class=\"ExternalClassC21D448D43F842FC938B9C7BF0195682\"><p>\u200bO projeto vinculado ao curso de Sistemas de Informa\u00e7\u00e3o tem como objetivo geral&#160;&#160;qualificar e desenvolver solu\u00e7\u00f5es inovadoras de Tecnologia de Informa\u00e7\u00e3o vindas de demandas de empresas parceiras.&#160;&#160;Essas demandas est\u00e3o relacionadas com necessidades da sociedade e s\u00e3o tratadas como inova\u00e7\u00e3o aberta em que a proposta de desenvolvimento \u00e9 elaborada a partir de ideias dos colaboradores das empresas e dos alunos do projeto.</p></div>",
+        "Ordem": 690,
+        "ID": 13
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(14)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(14)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "8daede63-f1e6-442a-88cb-8e62a65e61ec",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 14,
+        "Title": "Gest\u00e3o de Pessoas no Terceiro Setor",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Nanci das Gra\u00e7as Carvalho Raj\u00e3o",
+        "Descricao": "<div class=\"ExternalClassF81B4543C05D4DE2B2D1C23D94E172A6\"><p>O projeto vinculado ao curso de Psicologia tem como objetivo assessorar os coordenadores de associa\u00e7\u00f5es comunit\u00e1rias e programas sociais nas fun\u00e7\u00f5es de gest\u00e3o e na identifica\u00e7\u00e3o de novas lideran\u00e7as para as fun\u00e7\u00f5es administrativas e cont\u00e1beis. A metodologia utilizada \u00e9 participativa. Os extensionistas atuam como facilitadores das rela\u00e7\u00f5es interpessoais e do planejamento das atividades junto aos moradores da comunidade e na articula\u00e7\u00e3o interdisciplinar com os cursos da unidade S\u00e3o Gabriel que participam no atendimento de demandas comunit\u00e1rias.\u200b</p></div>",
+        "Ordem": 680,
+        "ID": 14
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(15)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(15)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "6f9decf3-4ea7-4039-af82-2d2534f98e4e",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 15,
+        "Title": "Assessoria T\u00e9cnica para Preven\u00e7\u00e3o e Mitiga\u00e7\u00e3o de Riscos Ambientais",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Luciene Oliveira Menezes",
+        "Descricao": "<div class=\"ExternalClass2051D404B0DF47DCAE8F6CD435002C85\"><p>O projeto vinculado ao curso de Engenharia Civil tem como objetivo propor alternativas para a preven\u00e7\u00e3o e mitiga\u00e7\u00e3o de riscos ambientais de moradias na cidade de Contagem, em parceria com a Defesa Civil deste munic\u00edpio. Entende-se por riscos ambientais os riscos geol\u00f3gico-geot\u00e9cnicos (deslizamentos), hidrol\u00f3gicos (inunda\u00e7\u00f5es e alagamentos) e insalubridades devido \u00e0 falta de sistema formal de drenagem, abastecimento de \u00e1gua, coleta de lixo e rede de esgoto. Com sua atua\u00e7\u00e3o, espera-se contribuir para a melhoria da qualidade de vida da popula\u00e7\u00e3o local.\u200b</p></div>",
+        "Ordem": 670,
+        "ID": 15
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(16)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(16)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "ba8929e7-d205-4a9f-bf5a-bf5608138a9f",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 16,
+        "Title": "Ci\u00eancias e tecnologias aeroespaciais para o Ensino M\u00e9dio e Ensino Fundamental",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof. Jos\u00e9 Tadeu de Oliveira",
+        "Descricao": "<div class=\"ExternalClass63B8AE1BDE9A4F1AB25EB7BD7CB88912\"><p>O projeto vinculado ao curso de Engenharia Aeron\u00e1utica tem como objetivo ofertar&#160;atividades de divulga\u00e7\u00e3o cient\u00edfica e de motiva\u00e7\u00e3o ao estudo das ci\u00eancias b\u00e1sicas por meio de palestras e oficinas de lan\u00e7amento de foguetes a \u00e1gua e ar comprimido.&#160; Para os estudantes do Ensino M\u00e9dio foram firmadas parcerias visando \u00e0 prepara\u00e7\u00e3o para as competi\u00e7\u00f5es da Olimp\u00edada Brasileira de Astronomia - OBA e Mostra Brasileira de Foguetes - MOBFOG.\u200b</p></div>",
+        "Ordem": 660,
+        "ID": 16
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(17)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(17)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "93fcf05f-0fb2-4b5c-a521-b1d8365cde92",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 17,
+        "Title": "Avalia\u00e7\u00e3o das Manifesta\u00e7\u00f5es Patol\u00f3gicas nas igrejas dos S\u00e9culos XVII e XVIII da Regi\u00e3o Metropolitana de Belo Horizonte",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Glaucia Nolasco de Almeida Mello",
+        "Descricao": "<div class=\"ExternalClass4BBC1C0AEF554C3FA78AB19DD3F48A13\"><p>O projeto vinculado ao curso de Engenharia Civil contempla a realiza\u00e7\u00e3o de um levantamento hist\u00f3rico e das condi\u00e7\u00f5es estruturais e de conserva\u00e7\u00e3o de &#160;igrejas selecionadas. O levantamento hist\u00f3rico considera as documenta\u00e7\u00f5es fornecidas pelos \u00f3rg\u00e3os p\u00fablicos Iphan, Iepha e secretarias de cultura municipais, al\u00e9m de informa\u00e7\u00f5es coletadas com os p\u00e1rocos respons\u00e1veis pelas igrejas e comunidades locais. J\u00e1 o levantamento das condi\u00e7\u00f5es estruturais e de conserva\u00e7\u00e3o \u00e9 realizado em visitas \u00e0s igrejas para inspe\u00e7\u00e3o visual e identifica\u00e7\u00e3o das manifesta\u00e7\u00f5es patol\u00f3gicas.\u200b</p></div>",
+        "Ordem": 650,
+        "ID": 17
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(18)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(18)",
+          "etag": "\"2\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "91a0750c-9178-4c84-ba4e-1128990cabaa",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 18,
+        "Title": "Declara\u00e7\u00e3o de Imposto de renda",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof. Hildegardo Martins Lima",
+        "Descricao": "<div class=\"ExternalClassB9D1EC9E96464521ACE7A527877E0C5E\"><p>\u200bO projeto vinculado ao curso de Ci\u00eancias Cont\u00e1beis tem como objetivo orientar e auxiliar os moradores dos bairros pr\u00f3ximos \u00e0 unidade no preenchimento da declara\u00e7\u00e3o do imposto de renda, colocando alunos, professores e comunidade em intera\u00e7\u00e3o nesta presta\u00e7\u00e3o de servi\u00e7o.</p></div>",
+        "Ordem": 640,
+        "ID": 18
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(19)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(19)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "403b63c1-4d72-4893-b64a-902f519eeabd",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 19,
+        "Title": "Projeto Atitude",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Luciana Fagundes da Silveira",
+        "Descricao": "<div class=\"ExternalClassFB60F6E8A9D44B6EA3D422A5AB563AFA\"><p>O projeto vinculado ao curso de Administra\u00e7\u00e3o coloca em pr\u00e1tica uma metodologia de gest\u00e3o da extens\u00e3o no curso de gradua\u00e7\u00e3o. Tem como objetivo estimular o protagonismo dos graduandos orientando-os a propor a\u00e7\u00f5es pontuais de extens\u00e3o ligadas \u00e0 sua forma\u00e7\u00e3o ou que explorem&#160;habilidades e compet\u00eancias para al\u00e9m da grade curricular. As a\u00e7\u00f5es acontecem na PUC Minas, em projetos sociais e escolas.\u200b</p></div>",
+        "Ordem": 630,
+        "ID": 19
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(20)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(20)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "e2c9512f-3b8a-469f-872f-253dfe346023",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 20,
+        "Title": "Orienta\u00e7\u00e3o para o primeiro emprego e comportamento no trabalho",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof. Ronaldo Moreira de Castro",
+        "Descricao": "<div class=\"ExternalClass2352FBB8EA564F4989FE75C38324AF31\"><p>O projeto vinculado aos cursos de Ci\u00eancias Cont\u00e1beis e Administra\u00e7\u00e3o tem como objetivo principal despertar no jovem o interesse para o trabalho l\u00edcito e o comportamento \u00e9tico por meio de oficinas preparat\u00f3rias para o primeiro emprego. O jovem \u00e9 convidado a conhecer o funcionamento de uma organiza\u00e7\u00e3o devidamente legalizada, os processos existentes nas \u00e1reas espec\u00edficas, e como se comportar em um ambiente corporativo, visando a aquisi\u00e7\u00e3o de conhecimentos b\u00e1sicos para iniciarem no trabalho em diferentes organiza\u00e7\u00f5es.\u200b</p></div>",
+        "Ordem": 620,
+        "ID": 20
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(22)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(22)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "562e1042-40b5-4a3d-8869-046e6e8bd391",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 22,
+        "Title": "Projeto Cuca Legal",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Val\u00e9ria Abritta Teixeira Drumond",
+        "Descricao": "<div class=\"ExternalClassA14E9F8ED5204857BA0DA3D3BC63F0AE\"><p>\u200bO projeto vinculado ao curso de Direito tem como objetivo orientar e motivar aqueles que est\u00e3o interessados em melhorar o desempenho nos estudos. O projeto ensina t\u00e9cnicas de estudo que possibilitam um aprendizado com mais qualidade e aproveitamento. Por meio da oferta de um circuito de oficinas, o projeto oferece aos participantes a oportunidade de entender como o c\u00e9rebro aprende, como a mem\u00f3ria funciona e a import\u00e2ncia de desenvolver n\u00e3o apenas&#160; as habilidades cognitivas, como o racioc\u00ednio, a linguagem e a mem\u00f3ria, mas tamb\u00e9m as&#160; habilidades n\u00e3o cognitivas, como foco,&#160; disciplina, persist\u00eancia e resili\u00eancia, habilidades imprescind\u00edveis&#160; para melhorar o rendimento nos estudos em qualquer idade e n\u00edvel de forma\u00e7\u00e3o.</p></div>",
+        "Ordem": 610,
+        "ID": 22
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(23)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(23)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "150aabdd-7c32-4410-8aea-3aa0ec008541",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Demais Projetos",
+          "Ordem": 90
+        },
+        "Id": 23,
+        "Title": "Projeto Novos La\u00e7os",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Marta Neves",
+        "Descricao": "<div class=\"ExternalClass76CB667BFB414B1999103727D002E769\"><p>\u200bO projeto vinculado aos cursos de Jornalismo e Publicidade e Propaganda prev\u00ea a realiza\u00e7\u00e3o de a\u00e7\u00f5es de extens\u00e3o no campo da comunica\u00e7\u00e3o com escolas p\u00fablicas pr\u00f3ximas \u00e0 PUC Minas S\u00e3o Gabriel envolvendo as disciplinas e laborat\u00f3rios dos cursos e estabelecendo uma aproxima\u00e7\u00e3o e intera\u00e7\u00e3o entre alunos de gradua\u00e7\u00e3o e alunos do ensino fundamental e m\u00e9dio.</p></div>",
+        "Ordem": 600,
+        "ID": 23
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(24)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(24)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "7618a91e-8a78-4425-9ff8-b2c49f868d69",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos Multi-Campi",
+          "Ordem": 80
+        },
+        "Id": 24,
+        "Title": "Ponto Jovem",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Adriane Maria Arantes de Carvalho",
+        "Descricao": "<div class=\"ExternalClass9FB5055B3DB344489C1D82F3C1DD485A\"><p>\u200bO projeto tem como objetivo o desenvolvimento de um ponto de informa\u00e7\u00e3o que contribua para a constru\u00e7\u00e3o da cidadania a partir do fornecimento de informa\u00e7\u00f5es que permitam aos jovens situarem-se como sujeitos aut\u00f4nomos e de direitos. O projeto contempla oficinas formativas, um portal de informa\u00e7\u00f5es, o aplicativo Guia de Profiss\u00f5es Ponto Jovem e um conjunto de jogos digitais sobre o Estatuto da Juventude.</p></div>",
+        "Ordem": 590,
+        "ID": 24
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(26)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(26)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "3e681587-1e37-437a-bf1b-3de6fdf889a5",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos Multi-Campi",
+          "Ordem": 80
+        },
+        "Id": 26,
+        "Title": "Programa Rede Incluir",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Carolina Resende",
+        "Descricao": "<div class=\"ExternalClass90EB807ACFCF4C7A952562176D2A884F\"><p>\u200bO programa desenvolvido pelo N\u00facleo de Direitos Humanos e Inclus\u00e3o (NDHI) da PROEX tem como miss\u00e3o a inser\u00e7\u00e3o de deficientes e demais pessoas necessitadas no mercado de trabalho. Ele oferece cursos de Inclus\u00e3o Digital, Inform\u00e1tica B\u00e1sica, Cidadania e Oficinas de Alfabetiza\u00e7\u00e3o.</p></div>",
+        "Ordem": 580,
+        "ID": 26
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(28)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(28)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "14962e79-5684-4d14-b4fb-78ef32ae120d",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Projetos Multi-Campi",
+          "Ordem": 80
+        },
+        "Id": 28,
+        "Title": "Projeto Vila F\u00e1tima",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Luciana Fagundes",
+        "Descricao": "<div class=\"ExternalClass24F2065A4258485E8E146CD47916824B\"><p>A\u00e7\u00e3o acad\u00eamica-assistencial na regi\u00e3o de Justin\u00f3polis que visa assegurar o fortalecimento de v\u00ednculos familiares e comunit\u00e1rios de jovens de 15 a 17 anos e prevenir situa\u00e7\u00f5es de vulnerabilidade pessoal e social.\u200b</p></div>",
+        "Ordem": 570,
+        "ID": 28
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(29)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(29)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "76036ad7-af94-4acf-a504-4f5da247b331",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Eventos",
+          "Ordem": 70
+        },
+        "Id": 29,
+        "Title": "SCAP",
+        "Coordenacao": null,
+        "Descricao": "<div class=\"ExternalClass045F785EF51B46969492435617C1AD3E\"><p>\u200bSemana de Ci\u00eancia, Arte e Pol\u00edtica da PUC Minas S\u00e3o Gabriel. Evento tem\u00e1tico que integra Ensino, Pesquisa e Extens\u00e3o com atua\u00e7\u00e3o de todos os cursos e setores da Unidade em um grande evento que contempla em sua programa\u00e7\u00e3o um Ciclo de Confer\u00eancias, Circuito Cultural e Art\u00edstico e Oficinas gratuitas com participa\u00e7\u00e3o da comunidade acad\u00eamica e comunidade externa.</p></div>",
+        "Ordem": 560,
+        "ID": 29
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(30)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(30)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "f2266db9-5c4d-4168-a7df-0cf77fa4d0f0",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Eventos",
+          "Ordem": 70
+        },
+        "Id": 30,
+        "Title": "Maleta Futura \u2013 Juventudes",
+        "Coordenacao": null,
+        "Descricao": "<div class=\"ExternalClass83BA85E1654946EDB1E2B26EB17B4B62\"><p>\u200bRealiza\u00e7\u00e3o de mostras e exibi\u00e7\u00e3o de material audiovisual acompanhadas de discuss\u00f5es e debates acerca da Juventude por meio de temas relativos ao Estatuto da Juventude e as diferentes quest\u00f5es das juventudes brasileiras. O material de exibi\u00e7\u00e3o foi produzido pelo Canal Futura elaborado a partir de reflex\u00f5es, pensamentos e ang\u00fastias de mais de 120 jovens de diferentes partes do Brasil. Dentre os in\u00fameros grupos representados est\u00e3o os negros, brancos, ind\u00edgenas, perif\u00e9ricos, ribeirinhos, urbanos, portadores de defici\u00eancia, trabalhadores rurais, empreendedores, empregados, estudantes, universit\u00e1rios, de diferentes credos. O material \u00e9 utilizado pelos projetos de extens\u00e3o como apoio ao trabalho realizado e \u00e9 disponibilizado para toda a comunidade acad\u00eamica da unidade S\u00e3o Gabriel que foi contemplada, por meio de sua coordena\u00e7\u00e3o de extens\u00e3o, a receber a maleta.</p></div>",
+        "Ordem": 550,
+        "ID": 30
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(31)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(31)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "1db823c8-a3e8-46d2-a5ad-79a86d492358",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Eventos",
+          "Ordem": 70
+        },
+        "Id": 31,
+        "Title": "Encontro Com",
+        "Coordenacao": "Coordena\u00e7\u00e3o Prof.\u00aa Marta Neves",
+        "Descricao": "<div class=\"ExternalClass52C407F82E61484A916BFF713B34D43B\"><p>Realiza\u00e7\u00e3o de palestras de artistas, mobilizadores e agitadores culturais de Belo Horizonte, mostras de filmes e v\u00eddeos, com destaque para a apresenta\u00e7\u00e3o da&#160; trajet\u00f3ria dos convidados, suas produ\u00e7\u00f5es, sua inser\u00e7\u00e3o no mundo da cultura em diversas frentes&#58; m\u00fasica, artes visuais, cinema, mobiliza\u00e7\u00e3o de grupos e centros culturais, manifesta\u00e7\u00f5es da cultura popular, cultura ind\u00edgena, grupos quilombolas, dentre outros.&#160;O evento articula pr\u00e1ticas curriculares em disciplinas dos cursos de Jornalismo, Publicidade e Propaganda e laborat\u00f3rios.\u200b</p></div>",
+        "Ordem": 540,
+        "ID": 31
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(32)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(32)",
+          "etag": "\"3\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "828edd3a-e02c-42e5-afe4-30a4f8a63cfb",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Oficinas de forma\u00e7\u00e3o gratuitos",
+          "Ordem": 60
+        },
+        "Id": 32,
+        "Title": "&nbsp;",
+        "Coordenacao": null,
+        "Descricao": "<div class=\"ExternalClass6301E6878F3C414380F067AB7D9ADBAE\"><p>\u200bOfertas semestrais por meio de projetos, eventos e pr\u00e1ticas curriculares de extens\u00e3o. Consulte no FaceBook a p\u00e1gina @ExtensaoPUCMinasSaoGabriel</p></div>",
+        "Ordem": 530,
+        "ID": 32
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(33)",
+          "uri": "https://www.pucminas.br/unidade/sao-gabriel/projetosdeextensao/_api/Web/Lists(guid'1dc69082-657d-4f6b-8d55-37895b4ab014')/Items(33)",
+          "etag": "\"1\"",
+          "type": "SP.Data.ProjetosDeExtensaoListItem"
+        },
+        "TipoDeProjetoDeExtensao": {
+          "__metadata": {
+            "id": "c2fa26f4-be3e-4d73-b682-ef72e3c2247b",
+            "type": "SP.Data.TiposDeProjetosDeExtensaoListItem"
+          },
+          "Title": "Cursos de extens\u00e3o",
+          "Ordem": 50
+        },
+        "Id": 33,
+        "Title": "&nbsp;",
+        "Coordenacao": null,
+        "Descricao": "<div class=\"ExternalClass59FA4D4BC85A41FBAE38773B879198B2\"><p>\u200bOfertas semestrais. Consulte o site pucminas.br/proex</p></div>",
+        "Ordem": 520,
+        "ID": 33
+      }
+    ]
+  }
+}

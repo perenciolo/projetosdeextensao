@@ -16,6 +16,41 @@
     <!-- Custom styles for this template -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
 
+    <style>
+        .sidebar-nav {
+            position: absolute;
+            top: 0;
+            width: 250px;
+            margin: 0;
+            padding: 0 20px;
+            list-style: none;
+        }
+
+        .sidebar-nav li {
+            text-indent: 0;
+            line-height: 20px;
+            font-size: .8rem;
+        }
+
+        .sidebar-nav li a {
+            /* white-space: pre-line; */
+        }
+
+        .sidebar-nav li:not(:last-child) {
+            padding-bottom: 10px;
+        }
+
+        li.sidebar-brand {
+            padding: 20px 0;
+            color: orange !important;
+            font-size: 1rem;
+        }
+
+        li.sidebar-brand a {
+            color: inherit;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -25,32 +60,18 @@
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
-                <li class="sidebar-brand">
-                    <a href="#">
-                        Start Bootstrap
-                    </a>
-                </li>
-                <li>
-                    <a href="#">Dashboard</a>
-                </li>
-                <li>
-                    <a href="#">Shortcuts</a>
-                </li>
-                <li>
-                    <a href="#">Overview</a>
-                </li>
-                <li>
-                    <a href="#">Events</a>
-                </li>
-                <li>
-                    <a href="#">About</a>
-                </li>
-                <li>
-                    <a href="#">Services</a>
-                </li>
-                <li>
-                    <a href="#">Contact</a>
-                </li>
+                <span v-for="(item,i) in grouped[0]" :key="i">
+                    <li class="sidebar-brand">
+                        <a href="#">
+                            {{i}}
+                        </a>
+                    </li>
+                    <li v-for="(link,j) in item" :key="j">
+                        <a href="#">
+                            {{link.Title}}
+                        </a>
+                    </li>
+                </span>
             </ul>
         </div>
         <!-- /#sidebar-wrapper -->
@@ -75,6 +96,9 @@
     <!-- Bootstrap core JavaScript -->
     <!-- <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script> -->
+    <script src="vendor/axios/axios.min.js"></script>
+    <script src="vendor/axios/underscore.js"></script>
+    <script src="vendor/axios/helpers.js"></script>
     <script src="vendor/vue/vue.min.js"></script>
 
     <!-- Menu Toggle Script -->
@@ -82,11 +106,31 @@
         new Vue({
             el: '#wrapper',
             data: {
-                toggled: true
+                toggled: true,
+                grouped: []
+            },
+            created: function () {
+                this.getData();
             },
             methods: {
                 toggleClass: function () {
                     this.toggled = !this.toggled;
+                },
+                groupBy: function (item) {
+                    return item['TipoDeProjetoDeExtensao']['Title'];
+                },
+                getData: function () {
+                    var vm = this;
+                    helperAxios('./src/data/data.json')
+                        .then(function (response) {
+                            var iteratee = response.data.d.results;
+
+                            var group = _.groupBy(iteratee, vm.groupBy);
+
+                            vm.grouped.push(group)
+
+                            console.log(vm.grouped)
+                        })
                 }
             }
         })

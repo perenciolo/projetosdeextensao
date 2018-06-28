@@ -13,6 +13,12 @@ gulp.task('vendor', function () {
     ])
     .pipe(gulp.dest('./vendor/bootstrap'));
 
+  // Axios
+  gulp.src([
+    './node_modules/axios/dist/**/*',
+    './src/helpers/*',
+  ]).pipe(gulp.dest('./vendor/axios'));
+
   // Vue
   gulp.src([
     './node_modules/vue/dist/**/*',
